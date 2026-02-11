@@ -1,6 +1,6 @@
 ## Hello, I'm Odinaka 👋
 
-### Creative Software Engineer & Frontend Developer based in Lagos, Nigeria 🇳🇬
+### A Creative Software Engineer based in Lagos, Nigeria 🇳🇬
 
 I mostly specialize in frontend technologies such as React, Tailwind, and cool animations with Framer Motion and GSAP. I also use Figma to recreate professional UI/UX designs and turn creative ideas into working digital products.
 

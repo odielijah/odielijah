@@ -18,10 +18,11 @@ This is where I share my projects, experiments, and things I’m building right 
 
 ---
 
-### 💜 Beyond the Code 
-* Fashion Content Creator
-* Artist & Illustrator
-* Gamer
+### 💜 Beyond Tech 
+When I'm not centering divs or tweaking animations, I am:
+* A Fashion Content Creator
+* An Artist & Illustrator
+* A Gamer
 
 
 ---

@@ -1,12 +1,12 @@
-Hey there 👋
+Hellooo there 👋
 
-I'm Odinaka (Odija), a software engineer based in Nigeria.
+I'm Odinaka, a software engineer based in Nigeria.
 
-I focus on building clean, responsive, and visually engaging web experiences using modern frontend tools and animation libraries.
+I moostly focus on frontend stuff such as: React, Tailwind, and animations with Framer Motion, and Gsap.
 
-I enjoy recreating professional UI designs, experimenting with motion, and turning creative ideas into functional digital products.
+I also use Figma for recreating professional UI designs, and turning creative ideas into functional digital products.
 
-This is where I share projects, experiments, and things I’m currently building. Most of my work is focused on learning through real implementations and hands-on practice.
+This is where I share my projects, experiments, and things I’m currently building. Most of my work is focused on learning through real implementations. Everything here is built from scratch.
 
 ---
 
@@ -16,18 +16,16 @@ This is where I share projects, experiments, and things I’m currently building
 • React, Vite  
 • Tailwind CSS  
 • GSAP, ScrollTrigger, Framer Motion  
-• Git & GitHub  
 • Postman  
-• Vercel, Netlify  
+• Vercel, Netlify for deployment
 
 ---
 
 ### A Bit About Me
 
-• 💜 I enjoy blending creativity with technology  
-• 🎨 I’m also passionate about fashion, content creation, and design  
-• 🚀 Currently focused on improving frontend engineering and animation skills  
-• 🧠 I enjoy learning by rebuilding and experimenting with real-world interfaces  
+• 💜 I’m passionate about fashion content creation
+• 🎨 I’m also into stylized drawing, I'm an artist.
+• 🚀 I'm Currently focused on improving frontend engineering and animation skills  
 
 ---
 

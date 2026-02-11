@@ -25,7 +25,9 @@ This is where I share my projects, experiments, and things I’m currently build
 
 • 💜 I’m passionate about fashion content creation
 • 🎨 I’m also into stylized drawing, I'm an artist.
-• 🚀 I'm Currently focused on improving frontend engineering and animation skills  
+• 👩🏾‍💻 I'm Currently focused on improving frontend engineering and animation skills
+• 🎮 I also play video games
+
 
 ---
 

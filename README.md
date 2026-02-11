@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, I'm Odinaka 👋
 
-### I’m Odinaka, a software engineer based in Lagos, Nigeria.
+### Creative Software Engineer & Frontend Developer based in Lagos, Nigeria 🇳🇬
 
 I mostly specialize in frontend technologies such as React, Tailwind, and cool animations with Framer Motion and GSAP. I also use Figma to recreate professional UI/UX designs and turn creative ideas into working digital products.
 
@@ -8,17 +8,17 @@ This is where I share my projects, experiments, and things I’m building right 
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 * **Core:** HTML, CSS, JavaScript
 * **Frontend:** React, Vite, Tailwind CSS
 * **Animation:** GSAP, ScrollTrigger, Framer Motion
-* * **Design to Code:** Figma
+* **Design to Code:** Figma
 * **Tools:** Postman
 * **Deployment:** Vercel, Netlify
 
 ---
 
-### Beyond the Code 
+### 💜 Beyond the Code 
 * Fashion Content Creator
 * Artist & Illustrator
 * Gamer

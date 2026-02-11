@@ -29,4 +29,4 @@ This is where I share my projects, experiments, and things I’m building right 
 
 ---
 
-You can connect with me on [LinkedIn](www.linkedin.com/in/odinaka-elijah) or explore my projects here on GitHub.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/odinaka-elijah) or explore my projects here on GitHub.

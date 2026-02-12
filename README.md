@@ -9,6 +9,8 @@ I specialize in frontend technologies such as React, Tailwind, and cool animatio
 ---
 
 ### Recent Projects
+- [Studio Koto Portfolio Clone](https://github.com/odielijah/studio-koto)  
+
 
 
 ---

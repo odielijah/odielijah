@@ -9,9 +9,21 @@ I specialize in frontend technologies such as React, Tailwind, and cool animatio
 ---
 
 ### Recent Projects
-- [Studio Koto Portfolio Clone](https://github.com/odielijah/studio-koto)  
+- [Studio Koto Portfolio Clone](https://github.com/odielijah/studio-koto)
+- [GSAP Portfolio Experience](https://github.com/odielijah/d-virtuous)
+- [Rock Paper Scissors Game](https://github.com/odielijah/studio-koto)
+- [Interactive Quiz Application](https://github.com/odielijah/studio-koto)
+- [Dynamic Todo List with Theme Support](https://github.com/odielijah/studio-koto)
+- [Minimal Portfolio](https://github.com/odielijah/studio-koto) 
 
+---
 
+### 🤝 Open To Opportunities
+I’m currently interested in opportunities that allow me to:
+- Build interactive and animation-driven frontend experiences
+- Collaborate on creative digital product development
+- Contribute to UI-focused engineering teams
+- Grow within environments that value design and user experience
 
 ---
 

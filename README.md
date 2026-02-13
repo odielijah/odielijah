@@ -2,7 +2,7 @@
 
 ### A Creative Software Engineer based in Lagos, Nigeria
 
-I specialize in frontend technologies such as React, Tailwind, and cool animations with Framer Motion and GSAP. I also use Figma to recreate professional UI/UX designs and turn creative ideas into working digital products. I enjoy learning through building, and this space showcases my projects, experiments, and continuous growth as a developer.
+I specialize in frontend technologies such as React, Tailwind, and advanced animations with Framer Motion and GSAP. I also use Figma to recreate professional UI/UX designs and turn creative ideas into working digital products. I enjoy learning through building, and this space showcases my projects, experiments, and continuous growth as a developer.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/odinaka-elijah)
 

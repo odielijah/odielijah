@@ -28,17 +28,17 @@ I’m currently interested in opportunities that allow me to:
 ---
 
 ### 💻 Tech Stack
-* **Core:** HTML, CSS, JavaScript
 * **Frontend:** React, Vite, Tailwind CSS
+* **Core:** HTML, CSS, JavaScript
 * **Animation:** GSAP, ScrollTrigger, Framer Motion
+* * **Deployment:** Vercel, Netlify
 * **Design to Code:** Figma
 * **Tools:** Postman
-* **Deployment:** Vercel, Netlify
 
 ---
 
 ### 💜 Beyond Tech 
-When I'm not centering divs or tweaking animations, I am:
-* A Fashion Content Creator
-* An Artist & Illustrator
-* A Gamer
+When I'm not refining layouts or building animations, I enjoy:
+* Fashion Content Creation
+* Drawing & Illustration
+* Gaming

@@ -31,7 +31,7 @@ I’m currently interested in opportunities that allow me to:
 * **Frontend:** React, Vite, Tailwind CSS
 * **Core:** HTML, CSS, JavaScript
 * **Animation:** GSAP, ScrollTrigger, Framer Motion
-* * **Deployment:** Vercel, Netlify
+* **Deployment:** Vercel, Netlify
 * **Design to Code:** Figma
 * **Tools:** Postman
 

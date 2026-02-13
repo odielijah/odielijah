@@ -14,7 +14,7 @@ I specialize in frontend technologies such as React, Tailwind, and cool animatio
 - [Rock Paper Scissors Game](https://github.com/odielijah/rock-paper-scissors) - An interactive browser game built with JavaScript logic and dynamic UI updates.
 - [Interactive Quiz Application](https://github.com/odielijah/quiz-game) - A quiz web app with real-time scoring and responsive user interaction.
 - [Dynamic Todo List](https://github.com/odielijah/react-todo-list) - A task management app with theme switching and persistent state handling.
-- [Cray Creative Portfolio](https://github.com/odielijah/cray-creative) - A responsive portfolio website built to showcase the Agency's branding. and digital presence.
+- [Cray Creative Portfolio](https://github.com/odielijah/cray-creative) - A responsive portfolio website built to showcase the Agency's branding.
 
 ---
 

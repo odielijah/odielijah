@@ -6,7 +6,7 @@ I specialize in frontend technologies such as React, Tailwind, and advanced anim
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/odinaka-elijah) 
 
-[View my Portfolio](https://portfolio-odielijah.netlify.app/)
+[View Portfolio](https://portfolio-odielijah.netlify.app/)
 
 ---
 

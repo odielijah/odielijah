@@ -9,12 +9,13 @@ I specialize in frontend technologies such as React, Tailwind, and advanced anim
 ---
 
 ### Recent Projects
+- [Habit Tracker App](https://github.com/odielijah/habit-tracker) - A Progressive Web App for tracking daily habits, built with Next.js, TypeScript, and Tailwind CSS.
+- [Invoice Management App](https://github.com/odielijah/invoice-mgmt-app) - This responsive application built with React, React Router, and Tailwind CSS v4.
+- [Interactive Quiz Application](https://github.com/odielijah/quiz-game) - A quiz web app with real-time scoring and responsive user interaction.
+- [Rock Paper Scissors Game](https://github.com/odielijah/rock-paper-scissors) - An interactive browser game built with JavaScript logic and dynamic UI updates.
+- [Dynamic Todo List](https://github.com/odielijah/react-todo-list) - A task management app with theme switching and persistent state handling.
 - [Studio Koto Portfolio Clone](https://github.com/odielijah/studio-koto) - Recreation of a creative design studio portfolio
 - [D'virtuous GSAP Portfolio](https://github.com/odielijah/d-virtuous) - An NGO portfolio featuring scroll-based animations and dynamic GSAP transitions.
-- [Rock Paper Scissors Game](https://github.com/odielijah/rock-paper-scissors) - An interactive browser game built with JavaScript logic and dynamic UI updates.
-- [Interactive Quiz Application](https://github.com/odielijah/quiz-game) - A quiz web app with real-time scoring and responsive user interaction.
-- [Dynamic Todo List](https://github.com/odielijah/react-todo-list) - A task management app with theme switching and persistent state handling.
-- [Cray Creative Portfolio](https://github.com/odielijah/cray-creative) - A responsive portfolio website built to showcase the Agency's branding.
 
 ---
 

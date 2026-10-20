@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hello, I'm Odinaka 👋
 
-<!--
-**odielijah/odielijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Creative Software Engineer based in Lagos, Nigeria
 
-Here are some ideas to get you started:
+I specialize in frontend technologies such as React, Tailwind, and advanced animations with Framer Motion and GSAP. I also use Figma to recreate professional UI/UX designs and turn creative ideas into working digital products. I enjoy learning through building, and this space showcases my projects, experiments, and continuous growth as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Connect with me on LinkedIn](https://www.linkedin.com/in/odinaka-elijah) 
+
+[View Portfolio](https://portfolio-odielijah.netlify.app/)
+
+---
+
+### Recent Projects
+- [Studio Koto Portfolio Clone](https://github.com/odielijah/studio-koto) - Recreation of a creative design studio portfolio
+- [D'virtuous GSAP Portfolio](https://github.com/odielijah/d-virtuous) - An NGO portfolio featuring scroll-based animations and dynamic GSAP transitions.
+
+---
+
+### 🤝 Open To Opportunities
+I’m currently interested in opportunities that allow me to:
+- Build interactive and animation-driven frontend experiences
+- Collaborate on creative digital product development
+- Contribute to UI-focused engineering teams
+- Grow within environments that value design and user experience
+
+---
+
+### 💻 Tech Stack
+* **Frontend:** React, Vite, Tailwind CSS
+* **Core:** HTML, CSS, JavaScript
+* **Animation:** GSAP, ScrollTrigger, Framer Motion
+* **Deployment:** Vercel, Netlify
+* **Design to Code:** Figma
+* **Tools:** Postman
+
+---
+
+### 💜 Beyond Tech 
+When I'm not refining layouts or building animations, I enjoy:
+* Fashion Content Creation
+* Drawing & Illustration
+* Gaming
